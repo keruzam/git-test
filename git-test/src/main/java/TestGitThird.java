@@ -6,7 +6,7 @@ public class TestGitThird {
 	}
 
 	public Long newFunction2() {
-		return Long.valueOf("22");
+		return Long.valueOf("2222");
 	}
 
 }
