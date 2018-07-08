@@ -5,4 +5,8 @@ public class TestGitThird {
 		return Long.valueOf("2");
 	}
 
+	public Long newFunction2() {
+		return Long.valueOf("22");
+	}
+
 }
