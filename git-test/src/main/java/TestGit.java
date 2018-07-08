@@ -1,8 +1,8 @@
 
 public class TestGit {
 
-	public void test() {
-		// TODO Auto-generated method stub
+	public String test() {
+		return "zmiana";
 	}
 
 }
